@@ -4,7 +4,7 @@
 
 </br>
 
-<div style="text-align: justify">- After 10 years in the graphic industry, I want to put into practice my knowledge during my training of fullstack web developer. And also learn more and more complex notions that are complementary to my initial training.</div>
+<div style="text-align: justify">- 📖 After 10 years in the graphic industry, I want to put into practice my knowledge during my training of fullstack web developer. And also learn more and more complex notions that are complementary to my initial training.</div>
 
 ## I'm a New Developer React!!
 
