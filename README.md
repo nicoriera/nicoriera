@@ -25,7 +25,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Expo" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" />
+<img  align="left"alt="Expo" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png" />
@@ -35,11 +35,11 @@
 
 <br />
 
-## Graphic :
+#### Graphic :
 
-<img alt="Adobe Photoshop" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
-<img alt="Adobe Illustrator" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
-<img alt="Adobe InDesign" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg" />
+<img align="left" alt="Adobe Photoshop" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
+<img align="left" alt="Adobe Illustrator" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
+<img align="left" alt="Adobe InDesign" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg" />
 
 <br />
 
