@@ -42,7 +42,7 @@
 
 <img align="left" alt="Adobe Photoshop" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
 <img align="left" alt="Adobe Illustrator" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
-<img align="left" alt="Adobe InDesign" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg" />
+<img align="left" color="#FF3366" alt="Adobe InDesign" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg" />
 
 <br />
 
