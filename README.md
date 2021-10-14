@@ -17,6 +17,8 @@
 ### Connect with me:
 
 [<img align="left" alt="nicoriera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nicoriera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nicoriera | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -49,3 +51,6 @@
 
 [bootcamp]: https://www.lereacteur.io/
 [linkedin]: https://www.linkedin.com/in/nicolasriera/
+[twitter]: https://twitter.com/nicolariera
+
+[gmail] : nicolariera@gmail.com
