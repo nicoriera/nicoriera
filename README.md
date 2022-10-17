@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolas 👋
 
-<div style="text-align: justify"> - 👋 Junior web developer looking for an internship. I'm from Paris, France, currently living in Barcelona, Spain </div>
+<div style="text-align: justify"> - 👋 Junior web developer looking for an training. I'm from Paris, France, currently living in Bordeaux, France </div>
 
 </br>
 
