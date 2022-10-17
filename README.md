@@ -8,10 +8,9 @@
 
 ## I'm a New Developer React!!
 
-- 🔭 I just finshed my Bootcamp in remote time at [Le Reacteur!][bootcamp]!
+- 🔭 I finshed bootcamp in remote time at [Le Reacteur!](https://www.lereacteur.io/)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to find internship in Barcelona or in full remote.
-- 🥅 2021 Goals: Become a junior dev web.
+- 👯 I am looking for another training in web development in Bordeaux.
 - ⚡ Fun fact: I love music and djing.
 
 ### Connect with me:
