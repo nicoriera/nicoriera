@@ -1,6 +1,7 @@
 ### Hi there, I'm Nicolas 👋
 
-<div style="text-align: justify"> - 👋 Junior web developer looking for training to strengthen his skills. I'm from Paris, France, currently living in Bordeaux, France </div>
+<div style="text-align: justify"> - 👋 Junior web developer currently at the FullStack Developer Bootcamp at Le Wagon Bordeaux.To consolidate my knowledge in algorithm, database, front-end and learn the Ruby programming language.
+I have lived in Paris, Barcelona, currently living in Bordeaux, France </div>
 
 </br>
 
