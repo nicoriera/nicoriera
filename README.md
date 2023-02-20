@@ -9,9 +9,8 @@ I have lived in Paris, Barcelona, currently living in Bordeaux, France </div>
 
 ## I'm a New Developer React!!
 
+- 🌱 I’m currently learning at FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)
 - 🔭 I finshed bootcamp in remote time at [Le Reacteur!](https://www.lereacteur.io/)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I am looking for another training in web development in Bordeaux.
 - ⚡ Fun fact: I love music and djing.
 
 ### Connect with me:
