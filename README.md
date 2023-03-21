@@ -7,7 +7,7 @@ I have lived in Paris, Barcelona, currently living in Bordeaux, France </div>
 
 <div style="text-align: justify">- 📖 After 10 years in the graphic industry, I want to put into practice my knowledge during my training of fullstack web developer. And also learn more and more complex notions that are complementary to my initial training.</div>
 
-## I'm a New Developer React!!
+## I'm a New Developer!!
 
 - 🌱 I’m currently learning at FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)
 - 🔭 I finshed bootcamp in remote time at [Le Reacteur!](https://www.lereacteur.io/)
@@ -48,5 +48,6 @@ I have lived in Paris, Barcelona, currently living in Bordeaux, France </div>
 </details>
 
 [bootcamp]: https://www.lereacteur.io/
+[bootcamp]: https://www.lewagon.com/fr
 [linkedin]: https://www.linkedin.com/in/nicolasriera/
 [twitter]: https://twitter.com/nicolariera
