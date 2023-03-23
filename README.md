@@ -8,7 +8,7 @@
 
 ## I'm a New Developer!!
 
-- 🌱 I’m currently learning at FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)
+- 🌱 I’m just finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)
 - 🔭 I finshed bootcamp in remote time at [Le Reacteur!](https://www.lereacteur.io/)
 - ⚡ Fun fact: I love music and djing.
 
