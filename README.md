@@ -8,8 +8,8 @@
 
 ## I'm a New Developer!!
 
-- 🌱 I’m just finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)
-- 🔭 I finshed bootcamp in remote time at [Le Reacteur!](https://www.lereacteur.io/)
+- 🔭 I am junior dev at mobile application project (IzyDog)
+- 🌱 I’m just finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux) and learn every day.
 - ⚡ Fun fact: I love music and djing.
 
 ### Connect with me:
