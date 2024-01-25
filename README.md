@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolas 👋
 
-<div style="text-align: justify"> - 👋 Junior web developer, I just finished my bootcamp @Le Wagon in Bordeaux. I have an appetite for frontend development.</div>
+<div style="text-align: justify"> - 👋 Developer front end at Legalyspace.</div>
 
 </br>
 
@@ -8,8 +8,8 @@
 
 ## I'm a New Developer!!
 
-- 🔭 I am junior dev at mobile application project (IzyDog)
-- 🌱 I’m just finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux) and learn every day.
+- 🔭 I am developer front end at Legalyspace.
+- 🌱 I’m finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux).
 - ⚡ Fun fact: I love music and djing.
 
 ### Connect with me:
