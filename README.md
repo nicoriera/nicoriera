@@ -1,16 +1,16 @@
 ### Hi there, I'm Nicolas 👋
 
-<div style="text-align: justify"> - 👋 Developer front end at Legalyspace.</div>
+<div style="text-align: justify"> - 👋 Front-end Developer at LegalySpace.</div>
 
 </br>
 
-<div style="text-align: justify">- 📖 After 10 years in the graphic industry, I decided to change professional sector. The field of computer development came as an evidence.</div>
+<div style="text-align: justify">- 📖 After 10 years in the graphic industry, I decided to change professional sector. The field of software development came naturally as an obvious choice.</div>
 
-## I'm a New Developer!!
+## Front-end Developer specialized in Vue.js!!
 
-- 🔭 I am developer front end at Legalyspace.
-- 🌱 I’m finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux).
-- ⚡ Fun fact: I love music and djing.
+- 🔭 I have been a front-end developer at LegalySpace for a year, where I contribute to the migration of the platform to Vue 3, and the creation of the Storybook.
+- 🌱 I finished my FullStack Developer Bootcamp at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux).
+- ⚡ Fun fact: I love music and DJing.
 
 ### Connect with me:
 
@@ -21,24 +21,22 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/vue/vue.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/typescript/typescript.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/tailwind/tailwind.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img  align="left"alt="Expo" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ruby/ruby.png" />
-<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/rails/rails.png" />
 
 <br />
 
-#### Graphic :
+#### Graphic Tools:
 
 <img align="left" alt="Adobe Photoshop" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
 <img align="left" alt="Adobe Illustrator" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
@@ -46,9 +44,5 @@
 
 <br />
 
-</details>
-
-[bootcamp]: https://www.lereacteur.io/
-[bootcamp]: https://www.lewagon.com/fr
 [linkedin]: https://www.linkedin.com/in/nicolasriera/
 [twitter]: https://twitter.com/nicolariera
