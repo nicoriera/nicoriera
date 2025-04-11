@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolas Riera 👋
 
-I'm a **Front-end Developer** based in France, currently enhancing my skills through a work-study program at **LegalySpace** (focusing on **Vue.js**) and pursuing **React** development training with **OpenClassrooms**.
+I'm a **Front-end Developer** based in France, currently enhancing my skills through a work-study program at **LegalySpace** (focusing on **Vue.js**, **Pinia**, and **Storybook**) and pursuing **React** development training with **OpenClassrooms**.
 
 With a background in graphic design and experience from the [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux) FullStack Bootcamp, I enjoy bridging the gap between design and code to create intuitive user interfaces.
 
@@ -8,7 +8,7 @@ With a background in graphic design and experience from the [Le Wagon Bordeaux](
 
 #### Currently Working With:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,sass,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,pinia,storybook,react,ts,js,tailwind,sass,html,css)](https://skillicons.dev)
 
 #### Familiar With:
 
